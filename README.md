@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  
 </p>
 
- 
+ <h2 align="center">Stack</h2>
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{cchavezlo}/count.svg" alt="cchavezlo :: Visitor's Count" /></p>
